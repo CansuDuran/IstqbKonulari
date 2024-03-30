@@ -22,6 +22,14 @@ Bu aşamada ekip, tüm kusurları düzelttiğinden ve yazılımın üzerinde anl
 Yazılımın artık canlı olması ve müşteriler tarafından kullanılmasıyla birlikte, geliştirme ekibinin odak noktası onu korumaya kayacaktır.
 Geliştiricilerin iyileştirmeler, hata düzeltmeleri ve yeni özellikler için istekleri karşılamaya hazır olmaları gerekecektir. Bu talepler birçok kaynaktan (satışlar, yöneticiler, müşteriler) gelecek, ancak ürün yönetimi ekibi, geliştiricilerin üzerinde çalışması için bu girişimlerden hangisinin ürün yol haritasına gireceğini belirleyecektir.
 *
+* En yaygın SDLC örnekleri veya SDLC modelleri aşağıda listelenmiştir:
+Şelale (Waterfall) Modeli
+Bu SDLC modeli en eski ve en basit olanıdır. Bu metodoloji ile bir aşamayı bitirip diğerine başlıyoruz. Her aşamanın kendi mini planı vardır ve her aşama bir sonraki aşamaya “şelale” girer. Bu modelin en büyük dezavantajı, eksik kalan küçük detayların tüm süreci aksatmaya , ara vermeye neden olmasıdır.
+Çevik(Agile ) Model
+Agile SDLC modeli, ürünü döngülere ayırır ve çok hızlı bir şekilde çalışan bir ürün sunar. Bu metodoloji, bir dizi yayın üretir. Her sürümün test edilmesi, bir sonraki sürüme dahil edilen bilgileri geri besler.
+SDLC’nin Faydaları
+Doğru yapılan SDLC, en yüksek düzeyde yönetim kontrolüne ve dokümantasyona izin verebilir. Geliştiriciler neyi neden inşa etmeleri gerektiğini anlarlar. Tüm taraflar hedef üzerinde önceden hem fikirdir ve bu hedefe ulaşmak için net bir plan görür. Herkes gerekli maliyetleri ve kaynakları anlıyor.
+Dikkat edilmesi gereken bir nokta : SDLC uygulamasını, bize yardımcı olan bir araçtan çok, geliştirme için bir barikat haline getirebilir. Müşterilerin ve tüm kullanıcıların ve paydaşların ihtiyaçlarının dikkate alınmaması, başlangıçta sistem gereksinimlerinin yetersiz anlaşılmasına neden olabilir. SDLC’nin faydaları ancak plana sadık kalındığında ortaya çıkar.
 * */
 
 }
